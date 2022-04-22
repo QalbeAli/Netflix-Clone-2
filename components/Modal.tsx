@@ -64,7 +64,7 @@ export default function Modal() {
           />
         </div>
         <div>
-          
+          <div></div>
         </div>
       </>
     </MuiModal>
